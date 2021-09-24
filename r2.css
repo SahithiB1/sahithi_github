@@ -1,0 +1,68 @@
+.header{
+    width:100%;
+    height:120px;
+    background-color:gray;
+    outline-style: groove;
+    outline-color: red;
+    outline-width: 7px;
+}
+
+.course{
+    width:50%;
+   line-height:60px;
+    text-align:center;
+    float:left;
+}   
+.college{
+    width:50%;
+    line-height:60px;
+    text-align:center;
+    float:right;
+}
+
+
+.img{
+    padding-left: 100px;
+    padding-top: 40px;
+    
+margin-left:250px;
+margin-top:40px;
+width: 50%;
+height:50%;
+border-inline: 2px;
+border-inline: 4px dotted;
+border-inline: medium dashed green;
+background-color:orange;
+ outline-style: groove;
+    outline-color: coral;
+    outline-width: 7px;
+}
+
+#name{
+    margin-top:40px;
+
+outline-style: groove;
+    outline-color: coral;
+    outline-width: 7px;
+background-color:gray;
+    color:white;
+    padding-left: 400px;
+ 
+}
+#branch{
+outline-style: groove;
+    outline-color: coral;
+    outline-width: 7px;
+background-color:gray;
+    color:white;
+    padding-left: 410px;
+}
+
+#roll{
+outline-style: groove;
+    outline-color: coral;
+    outline-width: 7px;
+background-color:gray;
+    color:white;
+    padding-left: 420px;
+}
